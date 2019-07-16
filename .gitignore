@@ -1,0 +1,12 @@
+*.swp
+*.pkl
+*.swo
+*pycache*
+*tags*
+*logs*
+*cscope.in.out*
+*cscope.out*
+*cscope.po.out*
+*idea*
+*venv*
+*.ipynb_checkpoints*
